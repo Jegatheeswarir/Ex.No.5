@@ -37,7 +37,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 📊Comparative Analysis of Prompting Patterns
 
 Prompting patterns are structured ways of interacting with AI systems to steer outputs effectively. Different patterns are suitable for different tasks, depending on whether you need creativity, precision, multi-step reasoning, or collaboration.
-## 1. Zero-shot Prompting
+## Zero-shot Prompting
 
 Definition: The model is asked to perform a task without examples.
 When to use: Simple tasks where the model already has general knowledge.
