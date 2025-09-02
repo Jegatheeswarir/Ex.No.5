@@ -145,7 +145,7 @@ Final: 97 is prime.
 ✅ Increases trustworthiness.
 ⚠️ Longer response time.
 
-##. Group/Collaborative Prompting
+## Group/Collaborative Prompting
 
 Definition: Multiple agents (or simulated personas) collaborate.
 When to use: Brainstorming, problem-solving.
