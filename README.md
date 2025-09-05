@@ -1,10 +1,8 @@
-
-
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
-### AI Tools Required: 
+## AI Tools Required: 
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -165,4 +163,5 @@ Project Manager: Focuses on project timeline.
 ✅ Useful for multi-perspective insights.
 ⚠️ Responses may get lengthy.
 
-# RESULT:The prompt for the above said problem executed successfully
+# RESULT:
+    The prompt for the above said problem executed successfully
