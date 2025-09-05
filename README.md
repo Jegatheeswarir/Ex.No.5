@@ -163,5 +163,4 @@ Project Manager: Focuses on project timeline.
 ✅ Useful for multi-perspective insights.
 ⚠️ Responses may get lengthy.
 
-# RESULT:
-    The prompt for the above said problem executed successfully
+# RESULT:The prompt for the above said problem executed successfully
